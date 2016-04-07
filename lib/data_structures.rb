@@ -1,5 +1,2 @@
 require 'data_structures/version'
-
-module DataStructures
-  # Your code goes here...
-end
+require 'data_structures/linked_list'
